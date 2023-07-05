@@ -4,6 +4,9 @@
   --fuenteprincipal: "Poppins", sans-serif;
 }
 
+body {padding-left:70px}
+
+
 h1 {
   font-family: var(--fuenteprincipal);
   font-weight: 700;
